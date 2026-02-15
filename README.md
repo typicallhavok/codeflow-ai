@@ -5,7 +5,6 @@
 Transform complex codebases into interactive, AI-powered learning experiences. CodeFlow AI helps developers understand unfamiliar code 40% faster through visual diagrams, adaptive explanations, and intelligent learning paths.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-hackathon-orange.svg)
 ![AI](https://img.shields.io/badge/AI-powered-brightgreen.svg)
 
 ## Problem Statement
